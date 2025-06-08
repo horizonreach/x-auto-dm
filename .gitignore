@@ -1,0 +1,14 @@
+dist/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+build/
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+*.log.*.*.*.*.*
